@@ -59,6 +59,10 @@ body {
   text-decoration: none;
 }
 
+.contacts-link.link:hover {
+  color: #b8b8b8;
+}
+
 .icon {
   width: 15px;
   margin-right: 10px;
@@ -124,6 +128,7 @@ body {
 .progect-list {
   list-style: none;
 }
+
 .projects-item {
   font-weight: 700;
   /* margin-left: 15px; */
@@ -139,6 +144,11 @@ body {
   margin-left: 5px;
   text-decoration: none;
 }
+
+.projects-link:hover {
+  color: black
+}
+
 .projects-text {
   margin-left: 15px;
 }
@@ -173,14 +183,28 @@ body {
   font-weight: 700;
   line-height: 24px;
 }
+
+.education-item {
+  font-weight: 700;
+  margin-left: 15px;
+}
+
+.education-company {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
 .faculty {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
 }
+
 .profesional-divaider {
   color: #000;
 }
+
 .profecional-duties {
   margin-top: 14px;
   margin-bottom: 30px;
