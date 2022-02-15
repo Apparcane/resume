@@ -112,6 +112,48 @@ body {
   color: #e5e6e8;
 }
 
+.progress-bar {
+  background-color: #1a1a1a;
+  height: 20px;
+  padding: 5px;
+  width: 250px;
+  margin: 70px 0 20px 0;
+  margin: 0px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  -webkit-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;           
+}
+
+.progress-bar .bar {
+  display: inline-block;
+  height: 100%;
+	background-color: #777;
+  margin-bottom: 5px;
+  -moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, .5) inset;
+}
+
+.blue .bar {
+  background-color: #34c2e3;   
+}
+
+.orange .bar {
+  background-color: #fecf23;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fecf23), to(#fd9215));
+  background-image: -webkit-linear-gradient(top, #fecf23, #fd9215);
+  background-image: -moz-linear-gradient(top, #fecf23, #fd9215);
+  background-image: -ms-linear-gradient(top, #fecf23, #fd9215);
+  background-image: -o-linear-gradient(top, #fecf23, #fd9215);
+  background-image: linear-gradient(top, #fecf23, #fd9215);  
+}
+
 .profesion {
   font-size: 20px;
   font-weight: 700;
@@ -123,7 +165,7 @@ body {
   font-weight: 700;
   line-height: 60px;
 }
-.deskription {
+.description {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
