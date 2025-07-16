@@ -55,7 +55,7 @@ a {
 
 .link-modal:hover {
     background-color: var(--color-primary);
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 .social-link {
