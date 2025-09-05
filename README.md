@@ -35,15 +35,9 @@ resume/
 
 ---
 
-## 📸 Preview
-![Resume Screenshot](./img/preview.png)
-
-*(Add a screenshot of your resume page here so visitors see it right away!)*  
-
----
 
 ## 🔗 Live Demo
-👉 [GitHub Pages Link](https://your-username.github.io/resume/)  
+👉 [GitHub Pages Link](https://apparcane.github.io/resume/)  
 *(Optional: you can easily publish it via GitHub Pages to share directly with recruiters)*
 
 ---
