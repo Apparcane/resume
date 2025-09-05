@@ -22,20 +22,6 @@ It’s designed as a single-page application with structured blocks: About, Skil
 
 ---
 
-## 📂 Project Structure
-resume/
-│── index.html # Main HTML page
-│── css/
-│ ├── bootstrap.min.css
-│ └── style.css
-│── js/
-│ └── bootstrap.bundle.min.js
-│── img/
-│ └── photo.jpg # My profile photo
-
----
-
-
 ## 🔗 Live Demo
 👉 [GitHub Pages Link](https://apparcane.github.io/resume/)  
 *(Optional: you can easily publish it via GitHub Pages to share directly with recruiters)*
